@@ -9,9 +9,8 @@
     "restify": "^4.3.0"
   },
   "devDependencies": {},
-	"main": "app.js",
 	"scripts": {
-	"start": "node app.js" // tells the web service where the start script is
+	"start": "node app.js"
   },
   "author": "",
   "license": "ISC"
